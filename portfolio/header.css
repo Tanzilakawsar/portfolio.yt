@@ -1,0 +1,19 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header.jumbotron {
+    background: #f8f9fa;
+    padding: 4rem 2rem;
+}
+
+section {
+    padding: 2rem 0;
+}
+
+footer {
+    background: #f8f9fa;
+    padding: 1rem 0;
+}
+
+
