@@ -1,0 +1,20 @@
+/* Apply to the entire body */
+body {
+    background-color: black;  /* Black background */
+    color: white;             /* White text */
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive; /* Example handwritten font */
+}
+
+/* Apply to a specific class */
+.my-template {
+    background-color: black;  /* Black background */
+    color: white;             /* White text */
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive; /* Example handwritten font */
+}
+
+/* Apply to a specific ID */
+#template-id {
+    background-color: black;  /* Black background */
+    color: white;             /* White text */
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive; /* Example handwritten font */
+}
